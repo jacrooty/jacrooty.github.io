@@ -1,6 +1,6 @@
-## 21st Century Product Development
+## Building Products of the Future
 
-> Team leadership, coordinating cross-functional teams and shepherding products and features though its lifecycle is a practice that must be constantly honed.
+> The new model for product leadership and future enterprise is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and processes though its flexible lifecycle to create high-value offerings. Special emphasis in the areas of:
 
 * Agile Hybrid Product Management
 * Technical Global Marketing
@@ -16,17 +16,17 @@
 ## Portfolio
 ---
 
-### Financial Data Analysis
+### Featured Projects
 
-[Project 1 Title](/sample_page)
+[Financial Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Real Estate Visualization](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Reports](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -36,8 +36,6 @@
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
