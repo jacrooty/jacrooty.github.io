@@ -1,16 +1,16 @@
 ## Building Products of the Future
 
-> The new model for product leadership and future enterprise is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and processes though its flexible lifecycle to create high-value offerings. Special emphasis in the areas of:
+The new model for product leadership and future enterprise is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and processes though its flexible lifecycle to create high-value offerings. 
+
+Focus areas of:
 
 * Agile Hybrid Product Management
 * Technical Global Marketing
-* CX/UX Systems
+* Customer Experience / User Experience
 * SaaS & DaaS
-* Decision Systems
-* Data Analysis
-* Predictive Analysis
 * Data Visualization
-* Machine Learning
+* Data & Predictive Analysis
+* Machine Learning & Artificial Intelligence
 
 
 ## Portfolio
