@@ -1,7 +1,10 @@
-## 21st Century Product Management
+## 21st Century Product Development
 
-* Agile Product Development
+> Team leadership, coordinating cross-functional teams and shepherding products and features though its lifecycle is a practice that must be constantly honed.
+
+* Agile Hybrid Product Management
 * Technical Global Marketing
+* CX/UX Systems
 * SaaS & DaaS
 * Decision Systems
 * Data Analysis
