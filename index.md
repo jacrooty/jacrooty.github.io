@@ -2,7 +2,7 @@
 
 The new model for product leadership and future enterprise is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and processes though its flexible lifecycle to create high-value offerings. 
 
-### Focus areas of:
+### Areas of Focus:
 
 * Agile Hybrid Product Management
 * Technical Global Marketing
