@@ -19,15 +19,15 @@ The new model for product leadership and future enterprise is coordinating high 
 ### Featured Projects
 
 [Financial Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/vitals.jpg?raw=true"/>
 
 ---
 [Real Estate Visualization](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/weatherwear.jpg?raw=true"/>
 
 ---
 [Reports](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/airlines.png?raw=true"/>
 
 ---
 
