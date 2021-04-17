@@ -54,16 +54,22 @@ Some of the key areas of personal and professional of interest where I've invest
 [Download my Resume](/pdf/James_Christopher_CV2021.pdf)
 
 ---
+
+### Recent Presentations
+
+- [Agile Product Management for SaaS](http://example.com/)
+- [Tour of Product Management Frameworks](http://example.com/)
+- [Technical Marketing Strategy](http://example.com/)
+- [Agile Product Management for SaaS](http://example.com/)
+- [Tour of Product Management Frameworks](http://example.com/)
+- [Technical Marketing Strategy](http://example.com/)
+
+
 [Reports](http://example.com/)
 <img src="images/airlines.png?raw=true"/>
 
 ---
 
-### International Equities
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
 
 ---
 
