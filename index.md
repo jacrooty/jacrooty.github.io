@@ -1,30 +1,32 @@
-## Building Products of the Future
+## Goal: Building Products for a Better Future
 
-The new model for product leadership and future enterprise is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and processes though its flexible lifecycle to create high-value offerings. 
+The new model for product leadership in a uncertain, highly competitive and turbulent market is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and fine-tuning processes though its adaptive lifecycle to create high-value offerings. 
+
+We have to rethink how we create and ship products and services that is more flexible, agile and empathetic.
 
 ### Areas of Interest:
 Some of the key areas of personal and professional of interest where I've invested time working or studying. Overall, my innate curiousity in many different things cannot easily be encapsulated in an outline. I just have a passion for learning new things.
 
-* Agile Hybrid Product Management
+* Product Development
 * User Experience Design
+* Persuative Technologies
+* Behaviorial Economics
 * Systems Architecture & Engineering
+* Predictive Analytics
 * Human Factors Design
 * Crypto Economics
-* Behaviorial Economics
 * Distributed Systems
 * Technical Global Marketing
 * Customer Experience / User Experience
 * SaaS & DaaS
 * Data Visualization
-* Innovation
-* Data Science, Data & Predictive Analysis
-* Machine Learning & Artificial Intelligence
+* Leadership and Management Science
 
 
 ## Other Interests
 ---
 
-### Favorite Books of All Time
+### Some of My Favorite Books
 
 * The (Mis)Behavior of Markets: A Fractile View of Financial Markets, Mandelbrot
 * The Constitution of Libery, F.A, Hayek
