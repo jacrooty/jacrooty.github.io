@@ -51,8 +51,7 @@ Some of the key areas of personal and professional of interest where I've invest
 
 ---
 ### Resume
-[Download my Resume](/pdf/sample_presentation.pdf)
-<img src="images/weatherwear.jpg?raw=true"/>
+[Download my Resume](/pdf/James_Christopher_CV2021.pdf)
 
 ---
 [Reports](http://example.com/)
