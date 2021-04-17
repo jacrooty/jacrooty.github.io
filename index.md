@@ -2,7 +2,7 @@
 
 The new model for product leadership and future enterprise is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and processes though its flexible lifecycle to create high-value offerings. 
 
-### Areas of Focus:
+### Areas of Interest:
 
 * Agile Hybrid Product Management
 * Technical Global Marketing
@@ -13,13 +13,30 @@ The new model for product leadership and future enterprise is coordinating high 
 * Machine Learning & Artificial Intelligence
 
 
-## Portfolio
+## Other Interests
 ---
 
-### Featured Projects
+### Book List
 
-[Financial Analysis](/sample_page)
-<img src="images/vitals.jpg"/>
+* The (Mis)Behavior of Markets: A Fractile View of Financial Markets, Mandelbrot
+* The Constitution of Libery, F.A, Hayek
+* The Black Swan, Nassim Taleb
+* The Most Important Thing, Howard Marks
+* Capital, Piketty
+* Debt, Graeber
+* Neuromancer, Gibbs
+* Token Economics, Voshmgir
+* The Mystery of Capital, Hernando De Soto
+* The Ascent of Money, Niall Ferguson
+* At Home, Bill Bryson
+* The Man Who Solved the Market, Zuckerman
+* Against the Gods: Remarkable Story of Risk, Bernstein
+* The Hard Thing About Hard Things, Horowitz
+* The Physics of Wall Street, Weatherall
+* Digital Gold, Popper
+* Player of Games, Ian Banks
+* SnowCrash, Neal Stephenson
+
 
 ---
 [Real Estate Visualization](/pdf/sample_presentation.pdf)
