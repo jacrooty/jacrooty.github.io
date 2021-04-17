@@ -3,6 +3,7 @@
 The new model for product leadership and future enterprise is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and processes though its flexible lifecycle to create high-value offerings. 
 
 ### Areas of Interest:
+Some of the key areas of personal and professional of interest where I've invested time working or studying. Overall, my innate curiousity in many different things cannot easily be encapsulated in an outline. I just have a passion for learning new things.
 
 * Agile Hybrid Product Management
 * User Experience Design
@@ -23,11 +24,12 @@ The new model for product leadership and future enterprise is coordinating high 
 ## Other Interests
 ---
 
-### Book List
+### Favorite Books of All Time
 
 * The (Mis)Behavior of Markets: A Fractile View of Financial Markets, Mandelbrot
 * The Constitution of Libery, F.A, Hayek
 * The Black Swan, Nassim Taleb
+* Fountainhead, Rand
 * The Most Important Thing, Howard Marks
 * Capital, Piketty
 * Debt, Graeber
