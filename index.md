@@ -5,11 +5,18 @@ The new model for product leadership and future enterprise is coordinating high 
 ### Areas of Interest:
 
 * Agile Hybrid Product Management
+* User Experience Design
+* Systems Architecture & Engineering
+* Human Factors Design
+* Crypto Economics
+* Behaviorial Economics
+* Distributed Systems
 * Technical Global Marketing
 * Customer Experience / User Experience
 * SaaS & DaaS
 * Data Visualization
-* Data & Predictive Analysis
+* Innovation
+* Data Science, Data & Predictive Analysis
 * Machine Learning & Artificial Intelligence
 
 
@@ -39,7 +46,8 @@ The new model for product leadership and future enterprise is coordinating high 
 
 
 ---
-[Real Estate Visualization](/pdf/sample_presentation.pdf)
+### Resume
+[Download my Resume](/pdf/sample_presentation.pdf)
 <img src="images/weatherwear.jpg?raw=true"/>
 
 ---
