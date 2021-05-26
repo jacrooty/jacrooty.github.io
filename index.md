@@ -1,4 +1,4 @@
-## Goal: Building Products for a Better Future
+## Goal: Building Products for a Better Future & For Humankind
 
 The new model for product leadership in a uncertain, highly competitive and turbulent market is coordinating high performance, cross-functional teams working in around the globe and mastering the process of orchestrating people and fine-tuning processes though its adaptive lifecycle to create high-value offerings. 
 
