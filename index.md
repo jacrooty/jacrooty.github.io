@@ -7,20 +7,18 @@ We have to rethink how we create and ship products and services that is more fle
 ### Areas of Interest:
 Some of the key areas of personal and professional of interest where I've invested time working or studying. Overall, my innate curiousity in many different things cannot easily be encapsulated in an outline. I just have a passion for learning new things.
 
-* Product Development
-* User Experience Design
+* User Experience Design & Human Factors
+* Neurolinguistics
 * Persuative Technologies
-* Behaviorial Economics
+* Cybernetics
+* Behaviorial Science & Economics
 * Systems Architecture & Engineering
 * Predictive Analytics
-* Human Factors Design
 * Crypto Economics
 * Distributed Systems
-* Technical Global Marketing
-* Customer Experience / User Experience
-* SaaS & DaaS
+* Marketing and Consumer Psychology
 * Data Visualization
-* Leadership and Management Science
+* Leadership and Human Capital Management
 
 
 ## Other Interests
