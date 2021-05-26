@@ -30,6 +30,8 @@ Some of the key areas of personal and professional of interest where I've invest
 
 * The (Mis)Behavior of Markets: A Fractile View of Financial Markets, Mandelbrot
 * The Constitution of Libery, F.A, Hayek
+* Foundation Series, Isaac Asimov
+* Designing the Mind, Ryan Bush
 * The Black Swan, Nassim Taleb
 * Fountainhead, Rand
 * The Most Important Thing, Howard Marks
